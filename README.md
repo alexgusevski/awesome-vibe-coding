@@ -51,6 +51,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Manus](https://manus.im/) - Autonomous AI agent for end-to-end project automation, from research to deployment.
 - [Same.new](https://same.new/) - AI web builder for cloning and creating websites from descriptions.
 
+- [Newly](https://newly.app/) - Build native iOS and Android apps from natural-language prompts.
+
 ## IDEs and Code Editors
 
 - [Windsurf](https://windsurf.com/) - Agentic IDE (acquired by Cognition, makers of Devin) with Cascade for multi-step coding and Tab/Supercomplete for completions.
